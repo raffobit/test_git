@@ -1,3 +1,2 @@
 Ciao Mondo!
-Modifica da online
-Fetch & merge
+Modifica da Develop locale
